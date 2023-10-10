@@ -1,0 +1,23 @@
+.container{
+    margin:0 auto;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+
+}
+
+p{
+
+}
+
+.form-control{
+    width: 423px;
+    height: 53px;
+    flex-shrink: 0; 
+    border: 1px solid #000;
+    background: #FFF; 
+}
